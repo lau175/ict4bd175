@@ -1,0 +1,4 @@
+Use opt_idf for energy plus simulation --> eplusout.csv is the input for data_prep, which reorganize data in intervals of 30 mins.
+It creates a data_2.csv that will be uploaded on InfluxDB through pub.py and sub.py
+
+temp_trend plots the temperature trend over the year and takes as input the data_2.csv
