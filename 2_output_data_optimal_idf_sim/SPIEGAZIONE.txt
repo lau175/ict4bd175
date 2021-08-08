@@ -1,4 +1,4 @@
-Use opt_idf for energy plus simulation --> eplusout.csv is the input for data_prep, which reorganize data in intervals of 30 mins.
-It creates a data_2.csv that will be uploaded on InfluxDB through pub.py and sub.py
+in opt conf folder we have eplusout_optconf.csv which is the result of the eplus sim for opt_conf.idf
 
-temp_trend plots the temperature trend over the year and takes as input the data_2.csv
+This must be rearranged in the metric of interest using data_proc.ipynb which output opt_conf.csv
+THe behaviour of the T_in can be seen giving the csv in input to temp_trend.py
