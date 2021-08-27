@@ -1,0 +1,4 @@
+LSTM to predict values in 3 hours
+
+1) settings: find optimal params
+2) run LSTM first choice params vs. optimal params
