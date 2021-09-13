@@ -1411,7 +1411,7 @@
     8.5,5.375,3.5,  !- X,Y,Z ==> Vertex 3 {m}
     8.5,1.375,3.5;  !- X,Y,Z ==> Vertex 4 {m}
 
-   ! Blocco 1, Zona 2, Parete - 17,500 mq - 0,0°, Surface Area: 17,500mq
+   ! Blocco 1, Zona 2, Parete - 17,500 mq - 0,0Â°, Surface Area: 17,500mq
 
   BuildingSurface:Detailed,
     Blocco1:Zona2_Wall_3_0_0,!- Name
@@ -1446,7 +1446,7 @@
     4.5737,5.375,2.36,  !- X,Y,Z ==> Vertex 3 {m}
     7.6438,5.375,2.36;  !- X,Y,Z ==> Vertex 4 {m}
 
-   ! Blocco 1, Zona 2, Parete - 14,000 mq - 270,0°, Surface Area: 14,000mq
+   ! Blocco 1, Zona 2, Parete - 14,000 mq - 270,0Â°, Surface Area: 14,000mq
 
   BuildingSurface:Detailed,
     Blocco1:Zona2_Wall_4_0_0,!- Name
@@ -1774,7 +1774,7 @@
     8.5,1.375,3.5,  !- X,Y,Z ==> Vertex 3 {m}
     8.5,-.622897004,3.5;  !- X,Y,Z ==> Vertex 4 {m}
 
-   ! Blocco 1, Zona 3, Parete - 6,993 mq - 270,0°, Surface Area: 6,993mq
+   ! Blocco 1, Zona 3, Parete - 6,993 mq - 270,0Â°, Surface Area: 6,993mq
 
   BuildingSurface:Detailed,
     Blocco1:Zona3_Wall_5_0_0,!- Name
@@ -2072,7 +2072,7 @@
     8.5,-.622897004,3.5,  !- X,Y,Z ==> Vertex 3 {m}
     8.5,-5.625,3.5;  !- X,Y,Z ==> Vertex 4 {m}
 
-   ! Blocco 1, Zona 1, Parete - 17,507 mq - 270,0°, Surface Area: 17,507mq
+   ! Blocco 1, Zona 1, Parete - 17,507 mq - 270,0Â°, Surface Area: 17,507mq
 
   BuildingSurface:Detailed,
     Blocco1:Zona1_Wall_4_0_0,!- Name
@@ -2090,7 +2090,7 @@
     3.5,-5.625,3.5,  !- X,Y,Z ==> Vertex 3 {m}
     3.5,-.622897004,3.5;  !- X,Y,Z ==> Vertex 4 {m}
 
-   ! Blocco 1, Zona 1, Parete - 17,500 mq - 180,0°, Surface Area: 17,500mq
+   ! Blocco 1, Zona 1, Parete - 17,500 mq - 180,0Â°, Surface Area: 17,500mq
 
   BuildingSurface:Detailed,
     Blocco1:Zona1_Wall_5_0_0,!- Name
