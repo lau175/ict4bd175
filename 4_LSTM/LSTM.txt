@@ -1,0 +1,2 @@
+LSTM_set.py --> find optimal paramenters for the neural network
+LSTM.py --> result for predictions in 3 hours and 8 hours
