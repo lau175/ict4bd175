@@ -1,0 +1,3 @@
+eplusout_2021.csv is the result of the eplus simulation for opt_conf.idf
+
+This must be rearranged in the metric of interest using data_proc.ipynb which outputs the data for InfluxDB
