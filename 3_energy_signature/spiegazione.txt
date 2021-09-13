@@ -1,1 +1,0 @@
-After having uploaded the post processed simulation results on InfluxDB, we use the energy_signature.ipynb to query the db and retrieve the data to plot and compute the enrgy signature
